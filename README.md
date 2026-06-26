@@ -1,2 +1,17 @@
+# Application Artifacts: Security Analyst Role
+
+This repository contains the professional application cover letter for **Kathryn Bobbitt**, tailored specifically for the **Security Analyst** position at the **Aptos Foundation**. 
+
+## 📄 Included Files
+* **`kathryn_bobbitt_aptos_security_analyst.html`**: A production-ready HTML/CSS single-page cover letter document optimized for clean word-spacing and layout mapping.
+
+## 🛠️ Professional Summary Cross-Reference
+The enclosed materials highlight a robust intersection of information systems management, secure operations data processing, and technical infrastructure mapping, including:
+* **Core Competencies**: Access governance, user access reviews, risk mitigation, SaaS administrative hygiene, and threat triage pipelines.
+* **Systems & Foundations**: LLM automation workflows (Claude), next-generation email threat defense (Sublime, Doppel platform architectures), and vulnerability profiling frameworks (OWASP Top 10).
+* **Leadership Foundation**: Rigorous access control, cross-functional stakeholder communication, and distributed network oversight derived from U.S. Army Signal Support (MOS 25U) operations.
+
+---
+*Generated securely for submission to the Aptos Foundation talent acquisition team.*
 # Practice
-Cover letter
+
